@@ -1,0 +1,35 @@
+# Brand -> ticker pairs to watch for attention spikes.
+# wiki: the exact English Wikipedia article title (the part after /wiki/ in the URL). Use the final title, not a redirect, or views read near zero.
+# Pick brands that are a BIG share of the company's revenue - that's where a trend moves the stock.
+# Add/remove freely. Grok's weekly "discovery" section suggests new ones.
+
+- name: Celsius energy drink
+  ticker: CELH
+  wiki: Celsius_Holdings
+- name: e.l.f. Cosmetics
+  ticker: ELF
+  wiki: E.l.f.
+- name: Hims & Hers
+  ticker: HIMS
+  wiki: Hims_&_Hers_Health
+- name: Bloom Energy
+  ticker: BE
+  wiki: Bloom_Energy
+- name: On running shoes
+  ticker: ONON
+  wiki: On_(company)
+- name: Hoka
+  ticker: DECK
+  wiki: Hoka
+- name: Cava
+  ticker: CAVA
+  wiki: Cava_(restaurant)
+- name: Duolingo
+  ticker: DUOL
+  wiki: Duolingo
+- name: Dutch Bros
+  ticker: BROS
+  wiki: Dutch_Bros_Coffee
+- name: Sweetgreen
+  ticker: SG
+  wiki: Sweetgreen
