@@ -6,16 +6,16 @@ No attention spikes today.
 
 | Ticker | Added | Views/day (7d) | Baseline | Ratio | Stock 30d |
 |---|---|---|---|---|---|
-| ELF | 40 days ago | 212 | 193 | 1.1x | -5.3% |
-| SG | 40 days ago | 128 | 132 | 0.97x | +19.2% |
-| DUOL | 40 days ago | 730 | 772 | 0.95x | +5.7% |
-| HIMS | 40 days ago | 151 | 160 | 0.94x | -45.0% |
-| CELH | 40 days ago | 260 | 320 | 0.81x | +8.3% |
-| BROS | 40 days ago | 290 | 372 | 0.78x | -18.2% |
-| DECK | 40 days ago | 482 | 622 | 0.77x | -7.4% |
-| BE | 40 days ago | 282 | 388 | 0.73x | -22.8% |
-| ONON | 40 days ago | 693 | 1,831 | 0.38x | -9.4% |
-| CAVA | 40 days ago | 41 | 420 | 0.1x | -6.3% |
+| ELF | 40 days ago | 212 | 193 | 1.1x | -9.2% |
+| SG | 40 days ago | 128 | 132 | 0.97x | +23.4% (already moved) |
+| DUOL | 40 days ago | 730 | 772 | 0.95x | +1.1% |
+| HIMS | 40 days ago | 151 | 160 | 0.94x | -47.3% |
+| CELH | 40 days ago | 260 | 320 | 0.81x | -0.2% |
+| BROS | 40 days ago | 290 | 372 | 0.78x | -20.6% |
+| DECK | 40 days ago | 482 | 622 | 0.77x | -4.1% |
+| BE | 40 days ago | 282 | 388 | 0.73x | -26.5% |
+| ONON | 40 days ago | 693 | 1,831 | 0.38x | -7.6% |
+| CAVA | 40 days ago | 41 | 420 | 0.1x | -8.0% |
 
 ## Latest Grok scout (2026-11-20)
 
