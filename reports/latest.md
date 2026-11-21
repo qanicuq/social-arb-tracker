@@ -1,4 +1,4 @@
-# Social arb report - 2026-11-20
+# Social arb report - 2026-11-21
 
 No attention spikes today.
 
@@ -6,20 +6,20 @@ No attention spikes today.
 
 | Ticker | Added | Views/day (7d) | Baseline | Ratio | Stock 30d |
 |---|---|---|---|---|---|
-| ELF | 40 days ago | 212 | 193 | 1.1x | -9.2% |
-| SG | 40 days ago | 128 | 132 | 0.97x | +23.4% (already moved) |
-| DUOL | 40 days ago | 730 | 772 | 0.95x | +1.1% |
-| HIMS | 40 days ago | 151 | 160 | 0.94x | -47.3% |
-| CELH | 40 days ago | 260 | 320 | 0.81x | -0.2% |
-| BROS | 40 days ago | 290 | 372 | 0.78x | -20.6% |
-| DECK | 40 days ago | 482 | 622 | 0.77x | -4.1% |
-| BE | 40 days ago | 282 | 388 | 0.73x | -26.5% |
-| ONON | 40 days ago | 693 | 1,831 | 0.38x | -7.6% |
-| CAVA | 40 days ago | 41 | 420 | 0.1x | -8.0% |
+| ELF | 41 days ago | 229 | 194 | 1.18x | -9.4% |
+| DUOL | 41 days ago | 721 | 770 | 0.94x | +1.4% |
+| HIMS | 41 days ago | 149 | 160 | 0.93x | -47.3% |
+| SG | 41 days ago | 116 | 130 | 0.89x | +23.8% (already moved) |
+| CELH | 41 days ago | 255 | 318 | 0.8x | -0.0% |
+| BROS | 41 days ago | 290 | 370 | 0.78x | -21.0% |
+| DECK | 41 days ago | 476 | 615 | 0.77x | -3.9% |
+| BE | 41 days ago | 283 | 388 | 0.73x | -26.3% |
+| ONON | 41 days ago | 680 | 1,569 | 0.43x | -7.8% |
+| CAVA | 41 days ago | 38 | 421 | 0.09x | -8.7% |
 
-## Latest Grok scout (2026-11-20)
+## Latest Grok scout (2026-11-21)
 
-Grok's trend picks from X, Reddit and the web: grok/scout/2026-11-20.md
+Grok's trend picks from X, Reddit and the web: grok/scout/2026-11-21.md
 
 
 ## Scoreboard: did the signals beat SPY?
