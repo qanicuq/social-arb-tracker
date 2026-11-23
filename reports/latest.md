@@ -1,25 +1,27 @@
-# Social arb report - 2026-11-22
+# Social arb report - 2026-11-23
 
-No attention spikes today.
+## Attention spikes (1)
+
+### ELF - e.l.f. Cosmetics: 2.06x attention, stock -9.4% (30d)
 
 ## All tracked
 
 | Ticker | Added | Views/day (7d) | Baseline | Ratio | Stock 30d |
 |---|---|---|---|---|---|
-| ELF | 42 days ago | 280 | 194 | 1.44x | -9.4% |
-| HIMS | 42 days ago | 149 | 160 | 0.93x | -47.3% |
-| DUOL | 42 days ago | 716 | 768 | 0.93x | +1.4% |
-| SG | 42 days ago | 118 | 129 | 0.91x | +23.8% (already moved) |
-| BROS | 42 days ago | 301 | 368 | 0.82x | -21.0% |
-| CELH | 42 days ago | 256 | 316 | 0.81x | -0.0% |
-| DECK | 42 days ago | 468 | 607 | 0.77x | -3.9% |
-| BE | 42 days ago | 289 | 388 | 0.74x | -26.3% |
-| ONON | 42 days ago | 692 | 1,392 | 0.5x | -7.8% |
-| CAVA | 42 days ago | 37 | 421 | 0.09x | -8.7% |
+| ELF | 43 days ago | 400 | 194 | 2.06x | -9.4% |
+| DUOL | 43 days ago | 711 | 763 | 0.93x | +1.4% |
+| SG | 43 days ago | 120 | 129 | 0.93x | +23.8% (already moved) |
+| HIMS | 43 days ago | 138 | 161 | 0.86x | -47.3% |
+| CELH | 43 days ago | 257 | 315 | 0.82x | -0.0% |
+| BROS | 43 days ago | 303 | 367 | 0.82x | -21.0% |
+| DECK | 43 days ago | 480 | 601 | 0.8x | -3.9% |
+| BE | 43 days ago | 282 | 390 | 0.72x | -26.3% |
+| ONON | 43 days ago | 684 | 1,308 | 0.52x | -7.8% |
+| CAVA | 43 days ago | 32 | 422 | 0.08x | -8.7% |
 
-## Latest Grok scout (2026-11-22)
+## Latest Grok scout (2026-11-23)
 
-Grok's trend picks from X, Reddit and the web: grok/scout/2026-11-22.md
+Grok's trend picks from X, Reddit and the web: grok/scout/2026-11-23.md
 
 
 ## Scoreboard: did the signals beat SPY?
