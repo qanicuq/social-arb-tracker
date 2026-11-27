@@ -2,22 +2,22 @@
 
 ## Attention spikes (1)
 
-### ELF - e.l.f. Cosmetics: 3.27x attention, stock -5.6% (30d)
+### ELF - e.l.f. Cosmetics: 3.27x attention, stock +0.0% (30d)
 
 ## All tracked
 
 | Ticker | Added | Views/day (7d) | Baseline | Ratio | Stock 30d |
 |---|---|---|---|---|---|
-| ELF | 47 days ago | 644 | 197 | 3.27x | -5.6% |
-| BROS | 47 days ago | 349 | 360 | 0.97x | -15.9% |
-| CELH | 47 days ago | 264 | 305 | 0.87x | +3.8% |
-| DECK | 47 days ago | 502 | 579 | 0.87x | +6.0% |
-| DUOL | 47 days ago | 624 | 754 | 0.83x | +13.5% |
-| SG | 47 days ago | 103 | 129 | 0.79x | +2.2% |
-| HIMS | 47 days ago | 120 | 160 | 0.75x | -50.0% |
-| BE | 47 days ago | 237 | 391 | 0.61x | -33.0% |
-| ONON | 47 days ago | 655 | 1,117 | 0.59x | -1.4% |
-| CAVA | 47 days ago | 26 | 424 | 0.06x | +2.2% |
+| ELF | 47 days ago | 644 | 197 | 3.27x | +0.0% |
+| BROS | 47 days ago | 349 | 360 | 0.97x | -17.5% |
+| CELH | 47 days ago | 264 | 305 | 0.87x | +7.3% |
+| DECK | 47 days ago | 502 | 579 | 0.87x | +5.1% |
+| DUOL | 47 days ago | 624 | 754 | 0.83x | +13.9% |
+| SG | 47 days ago | 103 | 129 | 0.79x | -0.2% |
+| HIMS | 47 days ago | 120 | 160 | 0.75x | -49.4% |
+| BE | 47 days ago | 237 | 391 | 0.61x | -26.7% |
+| ONON | 47 days ago | 655 | 1,117 | 0.59x | -3.1% |
+| CAVA | 47 days ago | 26 | 424 | 0.06x | -5.9% |
 
 ## Latest Grok scout (2026-11-27)
 
